@@ -1,3 +1,3 @@
 # ktorfx
 
-MCVE for an issue using ktor embedded in a JavaFx application
+MCVE for an issue https://youtrack.jetbrains.com/issue/KTOR-1998
